@@ -24,10 +24,7 @@ Figure 1. Block diagram of the proposed prototype. [1]
 -	Keywords: Safety, Circuit, High Frequency, High Voltage, Signal Generator, PWM, Ferrite Transformer, Switching
 
 
-<img width="363" height="422" alt="Back" src="https://github.com/user-attachments/assets/2922ab8e-79b1-46ad-9e40-b84fdbf30da8" />
-![Temperature Sensore and Mosfet](https://github.com/user-attachments/assets/c6d14dfe-e83a-4a29-af92-2cc8a906fe56)
-<img width="612" height="571" alt="PWM" src="https://github.com/user-attachments/assets/7c9a3753-a06a-4e6f-8ab6-43a0bf22320b" />
-<img width="1540" height="1129" alt="Plasma-Jet" src="https://github.com/user-attachments/assets/bd473969-7df3-49f7-ad3f-5e3e214251cb" />
-<img width="1332" height="661" alt="Inside the system" src="https://github.com/user-attachments/assets/23eb73cb-98fe-44fe-a692-d45a8aba2ab8" />
-![Final](https://github.com/user-attachments/assets/a4b93d95-1d00-41ac-9105-7c95f897c201)
+| [![Back view](https://github.com/user-attachments/assets/2922ab8e-79b1-46ad-9e40-b84fdbf30da8)](https://github.com/user-attachments/assets/2922ab8e-79b1-46ad-9e40-b84fdbf30da8) | [![Temperature sensor & MOSFET](https://github.com/user-attachments/assets/c6d14dfe-e83a-4a29-af92-2cc8a906fe56)](https://github.com/user-attachments/assets/c6d14dfe-e83a-4a29-af92-2cc8a906fe56) | [![PWM control](https://github.com/user-attachments/assets/7c9a3753-a06a-4e6f-8ab6-43a0bf22320b)](https://github.com/user-attachments/assets/7c9a3753-a06a-4e6f-8ab6-43a0bf22320b) |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| [![Plasma jet in action](https://github.com/user-attachments/assets/bd473969-7df3-49f7-ad3f-5e3e214251cb)](https://github.com/user-attachments/assets/bd473969-7df3-49f7-ad3f-5e3e214251cb) | [![Inside the system](https://github.com/user-attachments/assets/23eb73cb-98fe-44fe-a692-d45a8aba2ab8)](https://github.com/user-attachments/assets/23eb73cb-98fe-44fe-a692-d45a8aba2ab8) | [![Final assembly](https://github.com/user-attachments/assets/a4b93d95-1d00-41ac-9105-7c95f897c201)](https://github.com/user-attachments/assets/a4b93d95-1d00-41ac-9105-7c95f897c201) |
 
