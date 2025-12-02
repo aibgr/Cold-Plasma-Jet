@@ -19,7 +19,7 @@
 ### System Block Diagram
 <img src="https://github.com/user-attachments/assets/535c2017-c1c3-419b-9036-e17158193c51" alt="Block diagram"/>
 
-### Hardware Gallery (۲×۳)
+### Hardware Gallery
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ Stable, repeatable cold plasma jet successfully generated and used in preliminar
 
 ### Author & Contact
 **Ali Bagheri**  
-B.Sc. Mechanical Engineering & Computer Engineering (Minor) – IUST 2025  
+B.Sc. Mechanical Engineering & Computer Engineering – IUST 2025  
 Email: AliBagheri79.ab@gmail.com  
 GitHub: [@aibgr](https://github.com/aibgr)  
 LinkedIn: [ali-bagheri](https://www.linkedin.com/in/ali-bagheri-)
