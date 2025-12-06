@@ -1,4 +1,4 @@
-# Cold Plasma Generator – 100 kHz · 40 kV Variable High-Voltage High-Frequency System  
+# Antibacterial Cold Plasma Generator – 100 kHz · 40 kV Variable High-Voltage High-Frequency System  
 **Fully Designed, Built & Controlled with Embedded ATmega328 + Real-Time Condition Monitoring**  
 2021
 
