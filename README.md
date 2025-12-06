@@ -1,6 +1,6 @@
-# Cold Plasma Jet – 100 kHz · 40 kV Variable High-Voltage High-Frequency System  
+# Cold Plasma Generator – 100 kHz · 40 kV Variable High-Voltage High-Frequency System  
 **Fully Designed, Built & Controlled with Embedded ATmega328 + Real-Time Condition Monitoring**  
-2021 – Funded by Iranian National Elites Foundation (~$1,000 grant)
+2021
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Hardware](https://img.shields.io/badge/Hardware-Custom%20Built-success)](https://github.com/aibgr/Cold-Plasma-Jet)
@@ -10,7 +10,7 @@
 > **Student & Lead Designer:** Ali Bagheri (B.Sc. MechE & CompE)
 
 ### Project Highlights
-- Variable output: **100 kHz – 40 kV** cold atmospheric plasma jet
+- Variable output: **100 kHz – 40 kV** cold atmospheric plasma generator
 - Full custom power electronics chain: Function generator → Pre-driver → MOSFET bridge → Ferrite transformer → HV output
 - Embedded real-time monitoring: Temperature (MOSFET + transformer), arc detection, over-current protection
 - Safety-first design: Isolated feedback, soft-start, automatic shutdown
